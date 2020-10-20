@@ -1,10 +1,10 @@
 # QTEalarmClock
 # Группа: 10 - МИ - 1
-Электронная почта: akuptsov.hse@gmail.com
-VK: www.vk.com/alekscooper
+Электронная почта: st4fers@gmail.com
+VK: www.vk.com/bladeramen
 [ НАЗВАНИЕ ПРОЕКТА ]
 
-“Универсальный калькулятор УК – 1”
+“Quick-Time-будильник”
 
 [ ПРОБЛЕМНОЕ ПОЛЕ ]
 
